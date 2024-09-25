@@ -11,7 +11,7 @@ const config: DocsThemeConfig = {
   },
   docsRepositoryBase: 'https://github.com',
   footer: {
-    text: 'Nextra Docs Template',
+    text: 'Docs Template',
   },
 }
 
