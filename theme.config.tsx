@@ -10,9 +10,6 @@ const config: DocsThemeConfig = {
     link: 'https://discord.com',
   },
   docsRepositoryBase: 'https://github.com',
-  footer: {
-    text: 'Docs Template',
-  },
 }
 
 export default config
