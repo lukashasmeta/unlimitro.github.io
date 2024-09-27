@@ -4,8 +4,7 @@
   "advanced": "Advanced (A Folder)",
   "test": "Test",
   "about": {
-    "title": "About",
-    "type": "page"
+    "title": "About"
   },
   "test": {
     "title": "Test",
