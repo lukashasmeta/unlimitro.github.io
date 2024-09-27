@@ -1,0 +1,7 @@
+label: Test
+collapsible: true
+collapsed: true
+link:
+  type: generated-index
+  description: Test Description
+position: 4
