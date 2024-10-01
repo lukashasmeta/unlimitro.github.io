@@ -5,13 +5,12 @@
   "about": {
     "title": "About"
   },
-  "test": {
-    "title": "Test"
-  },
   "contact": {
     "title": "Contact ↗",
     "type": "page",
     "href": "https://twitter.com/",
     "newWindow": true
-  }
+  },
+
+  "features": "Features"
 }
